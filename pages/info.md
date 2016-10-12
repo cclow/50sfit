@@ -1,61 +1,48 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+title: "Why 50s Fit?"
+subheadline: ""
+teaser: "It's tough growing old..."
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
+It's tough growing old. Once we reach 40, the body seems to shift down a gear. Food we eat seems to go straight to the waistline instead of providing us with energy.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+This was the case for me until I was 46. Despite being moderately active and careful with what I ate, I found my weight approaching 90kg and my BMI steadily increasing to over 29[^bmi]. I was feeling lethargic,  and needed sugary caffeinated drink every afternoon to "boost my low blood sugar". A blood test I took a few months prior showed triglyceride levels of about 300 mg/dl, and total cholesterol to HDL ratio of 6.6, both way out of the normal range.
+
+These should have jolted me into making drastic changes but it didn't. It took a slightly drunk relative, who at a Chinese New Year gathering remarked that I have put on weight three different times, to finally push me into action.
+
+I started researching and experimenting with diets, exercises and lifestyle. Not everything I have tried has worked, but I was lucky to be headed towards mostly the right direction. I started to lose weight and my blood test results started to improve.
+
+These are photos taken when I started in February 2011:
+
+![February 2011, when I started](/images/info/201102-1.jpg)
+![February 2011, side view](/images/info/201102-2.jpg)
+
+I was not unpleased with my results in December 2011, 10 months later:
+
+![December 2011, 10 months after I started](/images/info/201112.jpg)
+
+Today is my 52nd birthday, five and a half years since I started, and this is a photo I took this morning.
+
+![Photo this morning in 31in Jeans](/images/info/201610.jpg)
+
+I've lost at least 14kg of weight, went from barely fitting into jeans with 36in waist, to fitting comfortably into 31in one that you see in the photo. I reduced my triglyceride and total cholesterol to HDL ratio to below 60 mg/dl  and 4 respectively. I feel more energetic and much stronger now. [^weights] Many aches and pains I've accumulated over the years in my shoulder and ankle have disappeared.
+
+Through this journey, I found that much of the advice from conventional wisdom are misguided.[^theBiggestLoser] I have also found lots of good credible information on these matters.
+
+I found that most diets do not work beyond the short term, and that watching what we eat is more effective than monitoring how much we eat. I learned that many of the foods we thought were healthy are not, and vice versa. I learned that cardio, as it is commonly practised to burn fat, does not work, and that we are better off building strength, muscles, and mobility. I have learned that besides exercising and dieting, there are many other factors to one's health, including rest, recovery, and even following our bodies' natural rhythms. I have learned that weight loss is just a small component of living a strong, active, fulfilling life, that we should find our own balances between health, fitness, performance, longevity and enjoying life.
+
+Our bodies are wonderfully complex, and even good information can be incomplete, inconclusive, hard to interpret, or seemingly contradicting. However, there is enough we can agree on that would let most people improve their current state.
+
+I'm still continually learning through reading, listening, thinking, and experimenting with myself. I hope that by sharing what has worked for me would help you in some ways to live a fuller 50s and beyond.
 
 
-## Features
-
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
 
 
+[^weights]: I'm pretty sure that I can squat and deadlift more than most people half my age.
 
-## I got inspired by...
+[^theBiggestLoser]: The New York Times article, [After 'The Biggest Loser,' Their Bodies Fought to Regain Weight](http://www.nytimes.com/2016/05/02/health/biggest-loser-weight-loss.html), illustrates starkly how weight loss based on the conventional wisdom of starvation and rigorous exercises does not work in the long term.
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+[^bmi]: Weight and BMI are imperfect indicators of health since it is possible for a healthy and very muscular person to get a BMI above the normal range, or an unhealthy "skinny fat" person to have a normal "healthy" BMI. Most of the time it is a good enough indicator that's easy to understand so we're using it here.
