@@ -33,6 +33,9 @@ The results in December 2011, 10 months later:
 ![December 2011, 10 months after I started](/images/info/201112.jpg)
 
 Since then, I've tried to learn more, experimenting with my diet and exercise.
+I learned that once you're on the right track, it does not take that much effort to maintain it.
+Even when I exercise very little for periods of three to six months, my weight maintained.
+
 My goal has gone beyond weight loss to better health, fitness, and living a more fulfilling life.
 Today is my 52nd birthday, five and a half years since I started, and this is a photo I took this morning.
 
@@ -40,7 +43,8 @@ Today is my 52nd birthday, five and a half years since I started, and this is a 
 
 I've lost at least 14kg of weight, went from barely fitting into jeans with 36in waist, to fitting comfortably into 31in one that you see in the photo. I reduced my triglyceride and total cholesterol to HDL ratio to below 60 mg/dl  and 4 respectively. I feel more energetic and much stronger now. [^weights] Many aches and pains I've accumulated over the years in my shoulder and ankle have disappeared.
 
-Through this journey, I found that much of the advice from conventional wisdom are misguided.[^theBiggestLoser] I have also found lots of good credible information on these matters.
+Through this journey, I found that much of the advice from conventional wisdom are misguided.[^theBiggestLoser]
+I have also found lots of good credible information on these matters.
 
 I found that most diets do not work beyond the short term, and that watching what we eat is more effective than monitoring how much we eat.
 I learned that many of the foods we thought were healthy are not, and vice versa.
@@ -53,6 +57,10 @@ However, there is enough we can agree on that would let most people improve thei
 
 I'm still continually learning through reading, listening, thinking, and experimenting with myself.
 I hope that by sharing what has worked for me would help you in some ways to live a fuller 50s and beyond.
+
+There is no rush.
+Reaching an unhealthy state took years of neglect and doing the wrong things.
+Give yourself time to get back into a healthy one, in a way that would last the rest of your life.
 
 
 
