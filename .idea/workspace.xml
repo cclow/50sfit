@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24d91cb7-6be0-4fb8-b458-2343a6082cac" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/info.md" afterPath="$PROJECT_DIR$/pages/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_footer.html" afterPath="$PROJECT_DIR$/_includes/_footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about.md" afterPath="$PROJECT_DIR$/pages/about.md" />
     </list>
     <ignored path="50sfit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,8 +75,8 @@
         <entry file="file://$PROJECT_DIR$/pages/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="896">
-                <caret line="39" column="206" selection-start-line="39" selection-start-column="206" selection-end-line="39" selection-end-column="206" />
+              <first_editor relative-caret-position="240">
+                <caret line="46" column="85" selection-start-line="46" selection-start-column="80" selection-end-line="46" selection-end-column="85" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -158,8 +155,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/pages/info.md" />
         <option value="$PROJECT_DIR$/_includes/_footer.html" />
-        <option value="$PROJECT_DIR$/pages/about.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/pages/about.md" />
       </list>
     </option>
   </component>
@@ -378,12 +375,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476244247777</updated>
-      <workItem from="1476244250959" duration="7553000" />
+      <workItem from="1476244250959" duration="7973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7553000" />
+    <option name="totallyTimeSpent" value="7973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />
@@ -588,8 +585,8 @@
     <entry file="file://$PROJECT_DIR$/pages/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="896">
-            <caret line="39" column="206" selection-start-line="39" selection-start-column="206" selection-end-line="39" selection-end-column="206" />
+          <first_editor relative-caret-position="240">
+            <caret line="46" column="85" selection-start-line="46" selection-start-column="80" selection-end-line="46" selection-end-column="85" />
             <folding />
           </first_editor>
           <second_editor />

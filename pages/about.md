@@ -7,24 +7,33 @@ permalink: "/about/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-It's tough growing old. Once we reach 40, the body seems to shift down a gear. Food we eat seems to go straight to the waistline instead of providing us with energy.
+It's tough growing old. Once we reach 40, the body seems to shift down a gear.
+Food we eat seems to go straight to the waistline instead of providing us with energy.
 
-This was the case for me until I was 46. Despite being moderately active and careful with what I ate, I found my weight approaching 90kg and my BMI steadily increasing to over 29[^bmi]. I was feeling lethargic,  and needed sugary caffeinated drink every afternoon to "boost my low blood sugar". A blood test I took a few months prior showed triglyceride levels of about 300 mg/dl, and total cholesterol to HDL ratio of 6.6, both way out of the normal range.
+This was the case for me until I was 46.
+Despite being moderately active and careful with what I ate, I found my weight approaching 90kg and my BMI steadily increasing to over 29[^bmi].
+I was feeling lethargic,  and needed sugary caffeinated drink every afternoon to "boost my low blood sugar".
+A blood test I took a few months prior showed triglyceride levels of about 300 mg/dl, and total cholesterol to HDL ratio of 6.6, both way out of the normal range.
 
-These should have jolted me into making drastic changes but it didn't. It took a slightly drunk relative, who at a Chinese New Year gathering remarked that I have put on weight three different times, to finally push me into action.
+These should have jolted me into making drastic changes but it didn't.
+It took a slightly drunk relative, who at a Chinese New Year gathering remarked that I have put on weight three different times, to finally push me into action.
 
-I started researching and experimenting with diets, exercises and lifestyle. Not everything I have tried has worked, but I was lucky to be headed towards mostly the right direction. I started to lose weight and my blood test results started to improve.
+I started researching and experimenting with diets, exercises and lifestyle.
+Not everything I have tried has worked, but I was lucky to be headed towards mostly the right direction.
+I started to lose weight and my blood test results started to improve.
 
 These are photos taken when I started in February 2011:
 
 ![February 2011, when I started](/images/info/201102-1.jpg)
 ![February 2011, side view](/images/info/201102-2.jpg)
 
-I started experimenting with my diet and switched from running regularly to weights training. The results in December 2011, 10 months later:
+I started experimenting with my diet and switched from running regularly to weights training.
+The results in December 2011, 10 months later:
 
 ![December 2011, 10 months after I started](/images/info/201112.jpg)
 
-Since then, I've tried to learn more, experimenting with my diet and exercise. My goal has gone beyond weight loss to better health, fitness, and living a more fulfilling life.
+Since then, I've tried to learn more, experimenting with my diet and exercise.
+My goal has gone beyond weight loss to better health, fitness, and living a more fulfilling life.
 Today is my 52nd birthday, five and a half years since I started, and this is a photo I took this morning.
 
 ![Photo this morning in 31in Jeans](/images/info/201610.jpg)
@@ -33,11 +42,17 @@ I've lost at least 14kg of weight, went from barely fitting into jeans with 36in
 
 Through this journey, I found that much of the advice from conventional wisdom are misguided.[^theBiggestLoser] I have also found lots of good credible information on these matters.
 
-I found that most diets do not work beyond the short term, and that watching what we eat is more effective than monitoring how much we eat. I learned that many of the foods we thought were healthy are not, and vice versa. I learned that cardio, as it is commonly practised to burn fat, does not work, and that we are better off building strength, muscles, and mobility. I have learned that besides exercising and dieting, there are many other factors to one's health, including rest, recovery, and even following our bodies' natural rhythms. I have learned that weight loss is just a small component of living a strong, active, fulfilling life, that we should find our own balances between health, fitness, performance, longevity and enjoying life.
+I found that most diets do not work beyond the short term, and that watching what we eat is more effective than monitoring how much we eat.
+I learned that many of the foods we thought were healthy are not, and vice versa.
+I learned that we are better off building strength, muscles, and mobility, than doing cardio, as it is commonly practised, to burn fat.
+I have learned that besides exercising and dieting, there are many other factors to one's health, including rest, recovery, and even following our bodies' natural rhythms.
+I have learned that weight loss is just a small component of living a strong, active, fulfilling life, that we should find our own balances between health, fitness, performance, longevity and enjoying life.
 
-Our bodies are wonderfully complex, and even good information can be incomplete, inconclusive, hard to interpret, or seemingly contradicting. However, there is enough we can agree on that would let most people improve their current state.
+Our bodies are wonderfully complex, and even good information can be incomplete, inconclusive, hard to interpret, or seemingly contradicting.
+However, there is enough we can agree on that would let most people improve their current state.
 
-I'm still continually learning through reading, listening, thinking, and experimenting with myself. I hope that by sharing what has worked for me would help you in some ways to live a fuller 50s and beyond.
+I'm still continually learning through reading, listening, thinking, and experimenting with myself.
+I hope that by sharing what has worked for me would help you in some ways to live a fuller 50s and beyond.
 
 
 
