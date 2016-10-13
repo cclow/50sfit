@@ -1,12 +1,29 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Contact Us"
+meta_title: ""
+subheadline: ""
+teaser: ""
 permalink: "/contact/"
+show_meta: false
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
-
-
- [1]: http://www.wufoo.com/
+<div id="wufoo-z9xqn830xqlmmn">
+Fill out my <a href="https://50sfit.wufoo.com/forms/z9xqn830xqlmmn">online form</a>.
+</div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Use <a href="http://www.wufoo.com/partners/">Wufoo integrations</a> and get your data to your favorite apps.</div>
+<script type="text/javascript">var z9xqn830xqlmmn;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'50sfit',
+'formHash':'z9xqn830xqlmmn',
+'autoResize':true,
+'height':'497',
+'async':true,
+'host':'wufoo.com',
+'header':'show',
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { z9xqn830xqlmmn = new WufooForm();z9xqn830xqlmmn.initialize(options);z9xqn830xqlmmn.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
