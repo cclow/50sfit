@@ -3,7 +3,7 @@ layout: page
 title: "Why 50s Fit?"
 subheadline: ""
 teaser: "It's tough growing old..."
-permalink: "/info/"
+permalink: "/about/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
@@ -20,10 +20,11 @@ These are photos taken when I started in February 2011:
 ![February 2011, when I started](/images/info/201102-1.jpg)
 ![February 2011, side view](/images/info/201102-2.jpg)
 
-I was not unpleased with my results in December 2011, 10 months later:
+I started experimenting with my diet and switched from running regularly to weights training. The results in December 2011, 10 months later:
 
 ![December 2011, 10 months after I started](/images/info/201112.jpg)
 
+Since then, I've tried to learn more, experimenting with my diet and exercise. My goal has gone beyond weight loss to better health, fitness, and living a more fulfilling life.
 Today is my 52nd birthday, five and a half years since I started, and this is a photo I took this morning.
 
 ![Photo this morning in 31in Jeans](/images/info/201610.jpg)

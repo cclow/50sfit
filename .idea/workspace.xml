@@ -2,47 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24d91cb7-6be0-4fb8-b458-2343a6082cac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-07-09-post-left-sidebar.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-07-10-breadcrumb.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-07-10-page.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-07-10-post-right-sidebar.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-08-19-page-fullwidth.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-09-10-portfolio.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-09-13-grid.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-09-14-video.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-09-15-gallery.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-10-08-header-image-pattern.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-10-09-header-full-width-image.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-10-09-header-image-color.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-10-09-header-logo-only.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-02-10-header-with-text.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-03-12-no-header-but-image.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-08-11-no-header.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-08-15-comments.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-08-16-typography.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-10-15-mediaelement_js.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-114x114-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-120x120-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-144x144-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-152x152-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-180x180-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-72x72-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-76x76-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/msapplication_tileimage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/touch-icon-192x192.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/favicon-32x32.png" afterPath="$PROJECT_DIR$/assets/img/favicon-32x32.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/authors.yml" afterPath="$PROJECT_DIR$/_data/authors.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/info.md" afterPath="$PROJECT_DIR$/pages/about.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/network.yml" afterPath="$PROJECT_DIR$/_data/network.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/socialmedia.yml" afterPath="$PROJECT_DIR$/_data/socialmedia.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/blog.html" afterPath="$PROJECT_DIR$/_layouts/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/frontpage.html" afterPath="$PROJECT_DIR$/_layouts/frontpage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/info.md" afterPath="$PROJECT_DIR$/pages/info.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_footer.html" afterPath="$PROJECT_DIR$/_includes/_footer.html" />
     </list>
     <ignored path="50sfit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="366">
-                <caret line="39" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <first_editor relative-caret-position="400">
+                <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -84,7 +47,7 @@
       <file leaf-file-name="frontpage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/frontpage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
+            <state relative-caret-position="-756">
               <caret line="53" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
@@ -111,12 +74,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="info.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/info.md">
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-130">
-                <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <first_editor relative-caret-position="896">
+                <caret line="39" column="206" selection-start-line="39" selection-start-column="206" selection-end-line="39" selection-end-column="206" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -127,7 +90,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_navigation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/_navigation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
@@ -140,28 +113,18 @@
       <file leaf-file-name="navigation.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="352">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="network.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/network.yml">
+      <file leaf-file-name="_footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="services.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/services.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -189,12 +152,14 @@
         <option value="$PROJECT_DIR$/_layouts/frontpage.html" />
         <option value="$PROJECT_DIR$/_data/network.yml" />
         <option value="$PROJECT_DIR$/_data/socialmedia.yml" />
-        <option value="$PROJECT_DIR$/_data/navigation.yml" />
-        <option value="$PROJECT_DIR$/pages/info.md" />
         <option value="$PROJECT_DIR$/pages/pages-root-folder/index.md" />
         <option value="$PROJECT_DIR$/_includes/_sidebar.html" />
         <option value="$PROJECT_DIR$/_layouts/blog.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/pages/info.md" />
+        <option value="$PROJECT_DIR$/_includes/_footer.html" />
+        <option value="$PROJECT_DIR$/pages/about.md" />
+        <option value="$PROJECT_DIR$/_data/navigation.yml" />
       </list>
     </option>
   </component>
@@ -266,6 +231,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="50sfit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="50sfit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages-root-folder" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -395,12 +378,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476244247777</updated>
-      <workItem from="1476244250959" duration="6071000" />
+      <workItem from="1476244250959" duration="7553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6071000" />
+    <option name="totallyTimeSpent" value="7553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />
@@ -532,54 +515,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/info.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-130">
-            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="19" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="366">
-            <caret line="39" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/frontpage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="53" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -598,6 +537,66 @@
           <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="400">
+            <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/frontpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="53" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="896">
+            <caret line="39" column="206" selection-start-line="39" selection-start-column="206" selection-end-line="39" selection-end-column="206" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
