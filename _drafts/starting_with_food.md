@@ -1,10 +1,41 @@
-Most diets work in the short term. The details seem to matter little, just by being aware of what and how much we eat is often enough to provide results.
+---
+layout: page
+#
+# Content
+#
+subheadline: ""
+title: "Starting with Food"
+teaser: "You cannot exercise away a bad diet."
+meta_description: ""
+categories:
+  - Diet
+tags:
+  - Overview
+---
+This probably comes as no surprise that diet is the most important factor affecting our body weight and health.
+When we think about getting healthy or losing weight, a diet is usually the first thing to come to mind.
 
-However, most diets are ineffective in the long run. It's been estimated that more than 80% of dieters regain their lost weights within a year. A particularly grim illustration of this fact is reported by the New York Time's in [After 'The Biggest Loser,' Their Bodies Fought to Regain Weight](http://www.nytimes.com/2016/05/02/health/biggest-loser-weight-loss.html).
+During my late thirties and early forties,  I was running regularly about 2 to 3 times weekly.
+That did not make much difference to my weight until I made changes in my diet. Our food are more than just capsules of energy, their constituents affect our hormonal system that affects whether we feel hungry, whether we store the excess energy as fat, and how we feel, among other things. Additonally, food can provide necessary building blocks for repairing our body, or they could be destructive agents.
 
-Diets based on partial starvation take tremendous willpower to maintain, and our bodies respond to such diets by lowering our base metabolic rate, making us less energetic and weight loss more difficult.
+The quality and types of food you eat are important, perhaps more so than the quantity of food and their nominal calories count.
 
-An effective diet  must be maintainable over a long time. Instead of relying on short term starvation, it must be a sustainable long term pattern of eating. [^fasting-exception] It should not take more willpower since we now know that our willpower are limited and should be conserve for more important decision making. [^ego-depletion]
+And more importantly when I say diet, it's never about one that last a couple of months or weeks. It's not about a shock therapy, a deprivation that you apply to your body so that it'll quickly lose the weight. It is about making lasting changes in how and what you eat.
+
+
+Most diets work in the short term.
+The details seem to matter little, just by being aware of what and how much we eat is often enough to provide results.
+Unfortunately this has resulted in many quick fix diets that depend on short term partial starvation or food substitution, 
+and these diets are ineffective in the long run.
+
+It's been estimated that more than 80% of dieters regain their lost weights within a year.
+A particularly grim illustration of this fact is reported by the New York Time's in [After 'The Biggest Loser,' Their Bodies Fought to Regain Weight](http://www.nytimes.com/2016/05/02/health/biggest-loser-weight-loss.html).
+
+Diets based on partial starvation take tremendous willpower to maintain,
+and our bodies respond to such diets by lowering our base metabolic rate, making us less energetic and weight loss more difficult.
+
+An effective diet  must be maintainable over a long time.
+Instead of relying on short term starvation, it must be a sustainable long term pattern of eating. [^fasting-exception] It should not take more willpower since we now know that our willpower are limited and should be conserve for more important decision making. [^ego-depletion]
 
 We must also be patient when making diet changes for weight loss and health. Our current poor health is a result of accumulation over many months if not years of bad lifestyle and eating habits. It is reasonable to expect lasting changes to take at least months, and not weeks. Short term results are unlikely to address deeper issues and unlikely to effect long term differences.
 
