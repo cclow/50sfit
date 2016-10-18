@@ -5,7 +5,7 @@ subheadline: ""
 teaser: "It's tough growing old..."
 permalink: "/about/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "info/sportshub.jpg"
 ---
 It's tough growing old. Once we reach 40, the body seems to shift down a gear.
 Food we eat seems to go straight to the waistline instead of providing us with energy.
