@@ -48,7 +48,7 @@ My summarised recommendations are:[^details]
   Food or food like products derived from corn, potatoes, flour, or soya bean should not be counted as vegetables, and if these are the only "vegetables" you take, you need to expand the range.
 
 * Fats are satiating and mostly not as harmful as most of us believe.
-  However, good and bad fats affect us antithetically, and it pays to differentiate them clearly.
+  However, good and bad fats affect us very differently, and it pays to distinguish them.
 
   As a general rule, stay away from oils that could have gone rancid or became trans-fats from excessive heating and processing, and avoid those high on Omega 6 or linoleic fatty acid.[^linoleic]
   Eliminate or reduce deep fried food, margarine, hydrogenated oils, and vegetable seed oils such as those from canola, rapeseed, corn, cottonseed, sunflower, soybean, safflower, though these are frequently mistaken for healthy oils.
