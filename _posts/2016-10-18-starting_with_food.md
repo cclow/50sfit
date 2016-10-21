@@ -7,10 +7,9 @@ subheadline: ""
 title: "Starting With Food"
 teaser: "Between 80% to 95% of dieters regain their lost weights within a year."
 categories:
-  - 
+  - Diet
 tags:
   - Overview
-  - Diet
 header:
     image_fullwidth: "starting_with_food/food.png"
 ---
@@ -87,9 +86,6 @@ My summarised recommendations are:[^details]
 * As risk management, reduce or eliminate products from wheat and most grain, such as bread, pasta, noodles.
   Besides being high in carbohydrate, wheat contains gluten-related proteins that can potentially damage our intestine wall and cause inflammation and autoimmune responses.
   It is still unclear how many people are really affective, though some have estimated that most are gluten sensitive even if we are not celiac patients. [^beer]
-
-Thank you for reading so far.
-If this interests you, consider subscribing to my mailing list or following my twitter account.
 
 [^health]: Weight loss or reduced body fat is just part of our health goal. In fact, extremely low body fat can be as unhealthy as high body fat.
 

@@ -122,7 +122,7 @@ defaults:
       comments: true
       breadcrumb: true
       author: 50sfit # Default author for posts
-
+      sidebar: right
 
 
 #       _   __            _             __  _
