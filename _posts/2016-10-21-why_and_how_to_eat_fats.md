@@ -4,11 +4,11 @@ layout: page
 # Content
 #
 subheadline: ""
-title: "Why and How to Eat Fat"
+title: "Why and How to Eat Fats"
 teaser: "Like proteins, fats are essential to our bodies."
 meta_description: ""
 categories:
-  - Diet
+  - nutrition
 tags:
   - Fat
 header:

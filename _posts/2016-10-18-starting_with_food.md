@@ -7,7 +7,7 @@ subheadline: ""
 title: "Starting With Food"
 teaser: "Between 80% to 95% of dieters regain their lost weights within a year."
 categories:
-  - Diet
+  - nutrition
 tags:
   - Overview
 header:
