@@ -10,17 +10,17 @@ sidebar: right
 comments: true
 ---
 It's tough growing old. Once we reach 40, the body seems to shift down a gear.
-Food we eat seems to go straight to the waistline instead of providing us with energy.
+The food we eat seems to go straight to the waistline instead of providing us with energy.
 
 This was the case for me until I was 46.
 Despite being moderately active and careful with what I ate, I found my weight approaching 90kg and my BMI steadily increasing to over 29[^bmi].
-I was feeling lethargic,  and needed sugary caffeinated drink every afternoon to "boost my low blood sugar".
+I was feeling lethargic,  and needed a sugary caffeinated drink every afternoon to "boost my low blood sugar".
 A blood test I took a few months prior showed triglyceride levels of about 300 mg/dl, and total cholesterol to HDL ratio of 6.6, both way out of the normal range.
 
 These should have jolted me into making drastic changes but it didn't.
 It took a slightly drunk relative, who at a Chinese New Year gathering remarked that I have put on weight three different times, to finally push me into action.
 
-I started researching and experimenting with diets, exercises and lifestyle.
+I started researching and experimenting with diets, exercises, and lifestyle.
 Not everything I have tried has worked, but I was lucky to be headed towards mostly the right direction.
 I started to lose weight and my blood test results started to improve.
 
@@ -43,7 +43,7 @@ Today is my 52nd birthday, five and a half years since I started, and this is a 
 
 ![Photo this morning in 31in Jeans](/images/info/201610.jpg)
 
-I've lost at least 14kg of weight, went from barely fitting into jeans with 36in waist, to fitting comfortably into 31in one that you see in the photo. I reduced my triglyceride and total cholesterol to HDL ratio to below 60 mg/dl  and 4 respectively. I feel more energetic and much stronger now. [^weights] Many aches and pains I've accumulated over the years in my shoulder and ankle have disappeared.
+I've lost at least 14kg of weight, went from barely fitting into jeans with 36in waist to fitting comfortably into 31in one that you see in the photo. I reduced my triglyceride and total cholesterol to HDL ratio to below 60 mg/dl  and 4 respectively. I feel more energetic and much stronger now. [^weights] Many aches and pains I've accumulated over the years in my shoulder and ankle have disappeared.
 
 Through this journey, I found that much of the advice from conventional wisdom are misguided.[^theBiggestLoser]
 I have also found lots of good credible information on these matters.

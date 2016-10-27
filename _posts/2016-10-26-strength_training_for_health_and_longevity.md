@@ -25,24 +25,24 @@ Its abstract reads:
 
 > The average American begins to experience a physical decline that begins as early as their mid-20’s and continues throughout the course of their life, terminating in the final decades of their life in a state of dysfunction and dependence.
 > While this is becoming commonplace, it is certainly not normal.
-> Our ancestors, as well as modern hunter-gatherers experienced a high level of physical functioning and health, that barring injury or infection, continued into advanced age.
-> In this lecture Dr. McGuff will discuss the concept of physiologic head room and discuss the notion of a quality life not just measured in years, but in “area under the curve” based on high physiologic headroom throughout a full lifespan.
-> He will show how a brief and infrequent regimen of high intensity exercise can reverse the diseases of modern civilization and how the new science of myokines (hormone-like substances released by working skeletal muscle) make this possible.
+> Our ancestors, as well as modern hunter-gatherers, experienced a high level of physical functioning and health, that barring injury or infection, continued into advanced age.
+> In this lecture Dr. McGuff will discuss the concept of the physiologic head room and discuss the notion of a quality life not just measured in years, but in “area under the curve” based on high physiologic headroom throughout a full lifespan.
+> He will show how a brief and infrequent regimen of high-intensity exercise can reverse the diseases of modern civilization and how the new science of myokines (hormone-like substances released by working skeletal muscle) make this possible.
 
 In the talk, Dr. McGuff explained the positive impact of strength exercise on the aging and modern civilization diseases are 100% related to muscle loss.
-In particular, he went through the effects on the ten biomarkers of health as identified by the American Council of Aging:
+In particular, he went through the effects on the ten biomarkers of health as identified by the American Council on Aging:
 
 1. **Muscle Mass**:
   Our skeletal muscle is the largest organ in our endocrine and immunogenic systems.
-  It secretes hormones and other products into the blood stream that affect other organs such as our fat cells, liver, pancreas, bones, and brains. 
+  It secretes hormones and other products into the bloodstream that affect other organs such as our fat cells, liver, pancreas, bones, and brains. 
 
 2. **Strength**:
-  Elderly falls has become the top case in emergency rooms.
-  We need strength to maintain our balances and functional abilities.
+  Elderly falls have become the top case in emergency rooms.
+  We need strength to maintain our balance and functional abilities.
   I would add that strength is essential for living an active lifestyle.
 
 3. **Bone Density**:
-  Studies have found that strengthening muscles sends chemical signals to the bones resulting in improvements in bone mineral density, making them stronger and less fragile.
+  Studies have found that strengthening muscles send chemical signals to the bones resulting in improvements in bone mineral density, making them stronger and less fragile.
 
 4. **Body Composition**:
   Strength training channels nutrients towards lean muscles, away from the fat tissues.
@@ -52,12 +52,12 @@ In particular, he went through the effects on the ten biomarkers of health as id
   Strength training is found to raise HDL and lower LDL, control insulin and other inflammatory chemicals in our bodies.
 
 6. **Hemodynamics**, or blood flow:
-  Strength training enhances return of venous blood to the heart and blood flow into the heart muscles.
-  It stimulates formation of new blood vessels to supply nutrients to muscles, which in turn decreases blood pressure.
+  Strength training enhances the return of venous blood to the heart and blood flow into the heart muscles.
+  It stimulates the formation of new blood vessels to supply nutrients to muscles, which in turn decreases blood pressure.
 
 7. **Glucose Control**:
   Skeletal muscles are the biggest glucose / glycogen storage in the body.
-  Strength training enhances metabolism of glucose, and improves insulin sensitivity.
+  Strength training enhances the metabolism of glucose and improves insulin sensitivity.
 
 8. **Aerobic Capacity**:
   Strength training builds up aerobic capacity through providing the inputs to the mitochondria’s aerobic energy production.
@@ -67,7 +67,7 @@ In particular, he went through the effects on the ten biomarkers of health as id
 
 10. **Brain Factors**:
   Strength training generates Brain-derived neurotrophic factor (BDNF) in muscles.
-  BDNF levels are known to decrease as we age, studies have sown possible links between low levels of BDNF to conditions such as  depression, schizophrenia, obsessive-compulsive disorder, Alzheimer's disease, Huntington's disease, Rett syndrome, and dementia.
+  BDNF levels are known to decrease as we age, studies have shown possible links between low levels of BDNF to conditions such as  depression, schizophrenia, obsessive-compulsive disorder, Alzheimer's disease, Huntington's disease, Rett syndrome, and dementia.
 
 In my personal experience, I've found strength training to be more effective than long distance running, not just for weight loss, but for overall health and fitness.
 I feel much better after exercising.

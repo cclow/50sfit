@@ -38,12 +38,11 @@ Growing old can take a real toll on our health.
 My friends and I used to joke that our bodies seemed to have shifted down a gear when we reach 40.
 Our weight and waistlines seem to grow despite our best efforts, and anything physical seems to require more exertion.
 
-In 2011, I realised that unless I did something differently, the rest of my 40s, my 50s and beyond, were not going to be much fun.
+In 2011, I realized that unless I did something differently, the rest of my 40s, my 50s and beyond, were not going to be much fun.
 So I got serious with my diet, exercises, and lifestyle, learning as much as I could, experimenting and implementing what I learned.
 
 I just turned 52, and I can honestly say I have not felt better since maybe my 30s.
 I decided that I should share my experiences, information, and new learnings.
 [50sFit](http://50sfit.com) is the place for me to do it, and you can read my story [here](http://50sfit.com/about/).
 
-I hope that this would be useful to you, and that through sharing and discussing, we can learn together to live a fuller life even as we age.
-
+I hope that this would be useful to you and that through sharing and discussing, we can learn together to live a fuller life even as we age.
