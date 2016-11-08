@@ -1,3 +1,30 @@
+
+## Fat Storage is Increased
+
+Your pancreas produces insulin to regulate your blood sugar level when you consume sugar or carbohydrates.
+
+Insulin lowers blood sugar by promoting its storage into our muscles, livers and fat cells.
+In conjunction, insulin promotes the metabolism of glycogen for energy production, and shuts down fatty acids metabolism and the release of fatty acids from fat cells.
+
+By itself this is a natural response.
+Under normal amounts of carbohydrate intakes, the excess is quickly stored away and used up.
+As insulin levels decrease, fatty acids stored in the fat cells are released as additional energy source.
+In fact, when we're at rest, roughly 70% of our energy comes from fats.
+
+[TK diagram]
+
+Consider if blood sugar levels are kept high, either by an extraordinary initial dose or with continual replenishment.
+Insulin levels are kept high, fat storage is increased while fat usage is decreased, and this causes a net increase in fat storage.
+
+## Sugar Crash
+
+An effect of consuming large amount of carbohydrates is sugar crash.
+Sugar crash occurs when a spike in blood glucose triggers an insulin spike, which in turn could drives blood glucose levels too low.
+You might have experienced this crash as fatigue, headache, brain fog, lack of focus, and irritability.
+
+Before I changed my diet, I would often feel this low blood sugar level in mid-afternoon, and would need something sweet.
+If I did not have 
+
 Reducing your sugar intake is perhaps the single most important thing you should do.
 Sugar provides empty calories that you don't need.
 Why consume calories without nutrients when other more nutritious foods can also provide the calories?
