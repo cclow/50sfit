@@ -16,6 +16,8 @@ In fact, when we're at rest, roughly 70% of our energy comes from fats.
 Consider if blood sugar levels are kept high, either by an extraordinary initial dose or with continual replenishment.
 Insulin levels are kept high, fat storage is increased while fat usage is decreased, and this causes a net increase in fat storage.
 
+## Fat Metabolism is Reduced
+
 ## Sugar Crash
 
 An effect of consuming large amount of carbohydrates is sugar crash.

@@ -1,6 +1,8 @@
+
+
 Why are you exercising?
 
-You cannot outexercise your diet
+You cannot out-exercise your diet
 
 Exercise by itself does not make you stronger or fitter
 
