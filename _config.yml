@@ -17,7 +17,7 @@ slogan: 'Health, Fitness, and Living for the Young at Heart'
 description: '»50s Fit« is a site for health, fitness, and living a fulfilling live for the middle age.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> theme.</p>'
+credits: '<p>Created with &hearts; with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a> theme.</p>'
 
 # Main author of the website
 # See > authors.yml
